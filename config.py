@@ -1,7 +1,7 @@
 class ModelConfig:
     # path
     data_path = ''
-    tok_path = './tokenizer.model'
+    tok_path = './tokenizer.model' # sentencepiece model
     model_path = './resource/HiTransformer.pkl'
 
     # params
